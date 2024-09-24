@@ -1,29 +1,11 @@
-### Hi there 👋
-## My name is Mateus Bastazini and i'm at my 3rd year of High School.
-I Like to code and learn fun facts in general, especially about math.
-Most of the times i prioritize doing thing i have fun with, and coding is generally up there.
 
-- 🌱 I’m currently reading Modern Operating Systems by Andrew Tanenbaum.
-- 🔭 Currently working on a software to help students anylize and get better at its weak points.
+## Hello
+So a friend of mine talk about my profile (not good things btw) so i'm just gonna do what comes to mind.
+I'm programming in React, with TS cause i love typing, and Node (that's actually a lie).
+I do like working with servers but i don't get many oppotunities to do so, and when i get my school blocks the RDP connection (thanks).
 
-## Languages
-I have a medium understanding of C, C++, Java and PHP.
-- Currently Learning React and Node.js.
+If you look very closley there is just pure text here and no emojis, you wanna know why? cause i don't wanna co over the internet looking for them.
+And English isin't my native language, so probably there is like an error in line 236 (this is an irony to when vscode says there is an error in a unexisting line).
 
-Looking to becode a fullstack developer.
+Wow! you really read all of that (or not, idk), well, thanks.
 
-- 📫 How to reach me: mateusbastazini@gmail.com or mateus.bastazini@unesp.br
-<!--
-**MBastazini/MBastazini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
